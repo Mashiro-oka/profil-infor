@@ -1,7 +1,0 @@
-node_modules/
-.directory
-.Trash-*
-.vscode/
-*.log
-.env
-.gitignore
